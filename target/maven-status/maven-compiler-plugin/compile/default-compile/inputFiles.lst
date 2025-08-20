@@ -1,0 +1,13 @@
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/TwitterAppApplication.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/config/CustomUserDetails.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/config/CustomUserDetailsService.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/config/SecurityConfig.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/controller/PostController.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/controller/UserController.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/model/Post.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/model/User.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/repository/PostRepository.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/repository/UserRepository.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/service/PostService.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/service/UserService.java
+/Users/macbook/Desktop/devops-blog-app/src/main/java/com/example/twitterapp/service/UserServiceImpl.java
